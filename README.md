@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/214dfab9-537a-4510-b9f7-b3169a315e0d)
+![github-header-image (1)](https://github.com/user-attachments/assets/c450c292-6b61-49df-9e01-15b017fa21bd)
 
 - 🔭 I’m currently working on a task manager using the GTD method
 - 🌱 I’m currently learning Kotlin, C++
