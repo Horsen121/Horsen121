@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a task manager using the GTD method
 - 🌱 I’m currently learning Kotlin, C++
-- ⚡ Fun fact: I 😄 science
+- ⚡ Fun fact: I ❤️ science
 <!--
 **Horsen121/Horsen121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
