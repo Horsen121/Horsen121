@@ -1,7 +1,7 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/c450c292-6b61-49df-9e01-15b017fa21bd)
 
 - 🔭 I’m currently working on a task manager using the GTD method
-- 🌱 I’m currently learning Kotlin, C++
+- 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: I ❤️ science
 <!--
 **Horsen121/Horsen121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
